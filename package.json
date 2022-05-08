@@ -78,7 +78,6 @@
     "lodash": "^4.17.21"
   },
   "peerDependencies": {
-    "@nuxtjs/axios": "^5.12.2",
     "@nuxtjs/proxy": "^2.0.1"
   },
   "optionalDependencies": {
